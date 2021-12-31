@@ -1,0 +1,11 @@
+.form-class{
+    padding: 20px;
+}
+
+.mainContant mat-card{
+    padding: 0;
+}
+
+.mainContant mat-toolbar{
+height: 48px; 
+}
